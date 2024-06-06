@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/">
+        <file>src/assets/imgs/electrode-placement.png</file>
+        <file>src/assets/imgs/electrode-placement-ok.png</file>
+        <file>src/assets/imgs/spinner.gif</file>
+        <file>src/assets/imgs/norm.png</file>
+        <file>src/assets/imgs/vf.png</file>
+        <file>src/assets/imgs/vt.png</file>
+        <file>src/assets/imgs/graph-bg.png</file>
+        <file>src/assets/sounds/1.wav</file>
+        <file>src/assets/sounds/2.wav</file>
+        <file>src/assets/sounds/3.wav</file>
+        <file>src/assets/sounds/Analyzing heart rhythm.wav</file>
+        <file>src/assets/sounds/Attach defib pads to patient's bare chest.wav</file>
+        <file>src/assets/sounds/Call 911 for help.wav</file>
+        <file>src/assets/sounds/Change batteries.wav</file>
+        <file>src/assets/sounds/Check responsiveness.wav</file>
+        <file>src/assets/sounds/Don't touch patient.wav</file>
+        <file>src/assets/sounds/No shock advised.wav</file>
+        <file>src/assets/sounds/Please stay calm.wav</file>
+        <file>src/assets/sounds/Plug in cable.wav</file>
+        <file>src/assets/sounds/Shock delivered.wav</file>
+        <file>src/assets/sounds/Shock will be delivered in.wav</file>
+        <file>src/assets/sounds/Shocks delivered.wav</file>
+        <file>src/assets/sounds/Start CPR.wav</file>
+        <file>src/assets/sounds/Stop CPR.wav</file>
+        <file>src/assets/sounds/Unit failed.wav</file>
+        <file>src/assets/sounds/Unit OK.wav</file>
+    </qresource>
+</RCC>
